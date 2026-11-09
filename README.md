@@ -74,4 +74,3 @@ Problem with unsupported flags when deploying google cloud run button
     <li>Companies over a Trillion: <pre><a href="https://redis.io/commands/zcount">ZCOUNT</a> companyLeaderBoard 1000000000000 +inf</pre> </li>
 </ol>
 
-## How to run it locally?
