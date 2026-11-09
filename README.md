@@ -7,12 +7,6 @@
 </p>
 
 <p>
-    <a href="https://vercel.com/new/git/external?repository-url=https://github.com/redis-developer/basic-redis-leaderboard-demo-python/tree/master&env=REDIS_HOST,REDIS_PORT,REDIS_PASSWORD" target="_blank">
-        <img src="https://vercel.com/button" alt="Deploy with Vercel" width="200px" height="50px"/>
-    </a>
-</p>
-
-<p>
     <a href="https://deploy.cloud.run/?dir=google-cloud-run" target="_blank">
         <img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" width="200px"/>
     </a>
